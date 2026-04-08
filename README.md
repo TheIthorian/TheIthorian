@@ -7,4 +7,4 @@ I’m @TheIthorian.
   - React + Javascript
   - html + CSS
 
-I'm not looking to callaborate on anything yet. Just working on some personal projects :)
+I'm not looking to collaborate on anything yet. Just working on some personal projects :)
