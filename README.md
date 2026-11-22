@@ -1,10 +1,5 @@
-Hi, 
+Hi,
+
 I’m @TheIthorian.
 
-- I’m interested in
-  - Python
-  - SQL
-  - React + Javascript
-  - html + CSS
-
-I'm not looking to collaborate on anything yet. Just working on some personal projects :)
+I’m interested building personal projects using typescript, but I also like to dabble in other languages like python and c# :)
